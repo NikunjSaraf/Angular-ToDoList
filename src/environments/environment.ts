@@ -5,14 +5,7 @@
 export const environment = {
   production: false,
   firebase:{
-    apiKey: "AIzaSyDmsQp5VlxqBBCA-DE2JEc0HDlYBlC5ycY",
-    authDomain: "todolist-d561c.firebaseapp.com",
-    databaseURL: "https://todolist-d561c.firebaseio.com",
-    projectId: "todolist-d561c",
-    storageBucket: "",
-    messagingSenderId: "318951386293",
-    appId: "1:318951386293:web:8ac70e03cbe49aaf2b62fc"
-  }
+      }
 };
 
 /*
